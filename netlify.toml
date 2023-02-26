@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://razvanchiriac.netlify.app/"
+  to = "https://razvan-chiriac.vercel.app/"
+  status = 301
+  force = true
